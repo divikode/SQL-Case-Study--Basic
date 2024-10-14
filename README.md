@@ -3,7 +3,7 @@ A retail store would like to understand customer behavior using their point of s
 
 Data Availability
 
-The data set we will be using for this exercise comprises of 3 tables:\n
+The data set we will be using for this exercise comprises of 3 tables:
 
 Customer: Customer demographics
 
